@@ -26,4 +26,4 @@ member_url = 'http://lpl.qq.com/web201612/data/LOL_MATCH2_TEAM_MEMBER{member_id}
 
 
 #### 爬到的数据展示
-![python](https://github.com/srp527/LPL/tree/master/lol/images/lol.jpg)
+![python](https://github.com/srp527/LPL/tree/master/lol/images/lol.png)
