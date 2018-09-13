@@ -7,7 +7,7 @@ scrapy 1.3.3
 #### 简单说下爬取的过程
 #### 战队页面: http://lpl.qq.com/es/team.shtml
 
-#### 一开始直接爬取发现爬不到数据, 查了一下发现 战队信息在'clublist.js'文件中
+#### 直接爬取发现爬不到数据, 查了一下发现 战队信息在'clublist.js'文件中
 ![python](https://github.com/srp527/LPL/blob/master/lol/images/lol0.png)
 
 #### 战队详细信息在一个'LOL_MATCH2_TEAM_TEAM57_INFO.js'文件中, 57这个数字是战队编号
